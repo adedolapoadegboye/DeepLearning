@@ -1,2 +1,2 @@
 # DeepLearning
-Collection of machine learning projects i've embarked on using python. This repo will be updated continuously as I learn more about this great topic.
+Collection of Machine Learning Projects i've completed using python. 
